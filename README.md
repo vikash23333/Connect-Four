@@ -5,7 +5,7 @@
  
  . After that we created a class board with method which is used to make the connect four game.
  
-        #### Method : 
+  ####      Method : 
         
             1. print_board -> this method print the structure of the board.
             
